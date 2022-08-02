@@ -1,0 +1,11 @@
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.csproj.AssemblyReference.cache
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.ohmaj_indicator.resources
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.Properties.Resources.resources
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.csproj.GenerateResource.cache
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\bin\Debug\csharp.exe.config
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\bin\Debug\csharp.exe
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\bin\Debug\csharp.pdb
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.exe
+C:\Users\TUHAG SERCAN\Desktop\csharp\csharp\obj\Debug\csharp.pdb
